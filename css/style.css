@@ -197,7 +197,7 @@ a:after {
 ------------------------------------------- */
 .common-section-blue-top{
     text-align: center;
-    padding-bottom: 76px;
+    padding-bottom: 26px;
     max-width: 600px;
     margin: 0 auto;
 }
@@ -214,7 +214,7 @@ a:after {
 ------------------------------------------- */
 .common-section-white-top{
     text-align: center;
-    padding-bottom: 76px;
+    padding-bottom: 26px;
     max-width: 600px;
     margin: 0 auto;
 }
@@ -340,7 +340,7 @@ a:after {
     bottom: 0;
 }
 .about-btm-cont{
-    padding-top: 20px;
+    padding-top: 10px;
 }
 .about-btm-cont h4{
     padding-bottom: 17px;
